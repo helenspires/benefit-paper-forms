@@ -7,6 +7,7 @@
 | Access to work       | AtW          |              |             |
 | Attendance Allowance | AA           | [Attendance Allowance](https://www.gov.uk/government/publications/attendance-allowance-claim-form) | https://assets.publishing.service.gov.uk/media/65e5b1e63f694514a3036001/aa1-interactive-claim-form.pdf |
 | Bereavement Support Payment | BSP | [Bereavement Support Payment](https://www.gov.uk/government/publications/bereavement-support-payment-claim-form)| https://assets.publishing.service.gov.uk/media/640efe95d3bf7f02f6e3804b/bsp1.pdf|
+| Budgeting Loan |  | [Budgeting Loan](https://www.gov.uk/government/publications/bereavement-support-payment-claim-form](https://www.gov.uk/government/publications/budgeting-loan-claim-form) | https://assets.publishing.service.gov.uk/media/64a66b13c531eb000c64ff28/sf500-budgeting-loan-claim-form-interactive.pdf)|
 | Carers Allowance | CA | [Carers Allowance](https://www.gov.uk/government/publications/carers-allowance-claim-form)| https://assets.publishing.service.gov.uk/media/660e9f839f92ac001a516caa/ds700-carers-allowance-form-interactive.pdf |
 | Carers Credit | CC | [Carers Credit](https://www.gov.uk/government/publications/carers-credit-application-form) | https://assets.publishing.service.gov.uk/media/645cc3e9653966000cbd3d2b/cc1-form.pdf |
 | Diffuse mesothelioma payments | | [Diffuse mesothelioma payments](https://www.gov.uk/government/publications/mesothelioma-payment-claim-form) | https://assets.publishing.service.gov.uk/media/64afc2c7c033c1000d806239/pwc1-interactive-claim-form.pdf |
@@ -15,8 +16,11 @@
 | Industrial Injuries Disablement Benefit | IIDB| [Industrial Injuries Disablement Benefit](https://www.gov.uk/government/publications/industrial-injuries-disablement-benefit-claim-forms) | https://assets.publishing.service.gov.uk/media/65cdff611d9395000c94670d/bi100a-interactive-claim-form.pdf |
 | Maternity Allowance | MA| [Maternity Allowance](https://www.gov.uk/government/publications/maternity-allowance-claim-form) | https://assets.publishing.service.gov.uk/media/66224df611d9f57e3ba7e50a/ma1-interactive-form.pdf |
 | Pension Credit | PC | [Pension Credit](https://www.gov.uk/government/publications/pension-credit-claim-form--2) | https://www.gov.uk/government/publications/pension-credit-claim-form--2 |
+| Personal Independence Payment | PIP | | Not publically available |
 | Sure Start Maternity Grant | | [Sure Start Maternity Grant](https://www.gov.uk/government/publications/sure-start-maternity-grant-claim-form) | https://assets.publishing.service.gov.uk/media/64fb1f931886eb000d977029/sure-start-maternity-grant-sf100.pdf |
 | State Pension | SP (GySP) | [Basic State Pension](https://www.gov.uk/government/publications/the-basic-state-pension) | https://assets.publishing.service.gov.uk/media/6615593feb8a1bb45e05e317/br1.pdf |
+| Universal Credit (including advance payments)| UC| [Universal Credit](https://www.gov.uk/universal-credit/how-to-claim)| Not publically available |
+| Winter Fuel Payment: EEA and Switzerland| WFP | [Winter Fuel Payment: EEA and Switzerland](https://www.gov.uk/government/publications/winter-fuel-payment-claim-form-eea-and-switzerland) | 2024 form available in Autumn |
 
 ## Ask for something
 
